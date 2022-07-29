@@ -1,6 +1,7 @@
 # DesignXweb
 A responsive webpage developed with HTML &amp; CSS
 you can view @ https://damilolaabiona.github.io/DesignXweb/
+Hosted on Netlify vie @ https://designxweb.netlify.app/
 
 
 
